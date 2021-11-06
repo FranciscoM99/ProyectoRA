@@ -1,2 +1,2 @@
-# ProyectoAvionRV
-Se quiere realizar un pequeño "simulador" del manejo de un avión. Tendremos a la vista la cabina del avión con sus respectivos controles, los cuales podremos manipular. 
+# ProyectoRV
+Se quiere realizar un pequeño thriller, teniendo como referencia la película "The blair witch". El personaje estará en un bosque con su linterna intentando encontrar una salida.
